@@ -3,7 +3,7 @@ const router = express.Router();
 
 router.get('/', (_, res, next) => {
   try {
-    console.log("Returning JSON");
+    console.log('Returning JSON');
     res.status(200).json({ message: 'OK' });
   } catch (err) {
     console.log("Error => ", err);
