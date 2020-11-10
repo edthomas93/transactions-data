@@ -1,14 +1,14 @@
 const express = require('express');
 
+const transactionsRouter = require('./routers/transactions');
+
 const app = express();
 
-app.get('/transactions', async (_, res, next) => {
-  try {
-    res.status(200).json({ response: 'OK' });
-    return next();
-  } catch (err) {
-    return next(err);
-  }
+app.use('/transactions', transactionsRouter);
+
+app.use((error, _, res, next) => {
+  res.status(error.status || 500).json({ message: error.message });
+  next();
 });
 
 module.exports = app;
