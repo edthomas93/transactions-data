@@ -1,0 +1,15 @@
+{
+  "name": "transactions-data",
+  "version": "1.0.0",
+  "description": "Transaction data to be hosted on heroku for tech test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Thomas",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
