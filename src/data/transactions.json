@@ -249,7 +249,7 @@
       "paymentDate": "2020-10-13T00:00:00.000Z",
       "amount": 17,
       "merchant": "Charitable Donations Co.",
-      "category": "Office"
+      "category": "Charity"
   },
   {
       "id": "9e0fd258-9c74-4e54-83ae-d2fae72ad64d",
@@ -277,7 +277,7 @@
       "paymentDate": "2020-11-04T00:00:00.000Z",
       "amount": 6,
       "merchant": "Charitable Donations Co.",
-      "category": "Transport"
+      "category": "Charity"
   },
   {
       "id": "c74e2018-d8f2-4307-a6d6-62e938a8acf5",
