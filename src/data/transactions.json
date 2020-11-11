@@ -151,7 +151,7 @@
       "paymentDate": "2020-11-04T00:00:00.000Z",
       "amount": 21,
       "merchant": "Starbucks",
-      "category": "Office"
+      "category": "Food"
   },
   {
       "id": "969deae9-a944-486f-aeb9-2441e565fee3",
@@ -228,7 +228,7 @@
       "paymentDate": "2020-10-09T00:00:00.000Z",
       "amount": 12,
       "merchant": "TFL London",
-      "category": "Office"
+      "category": "Travel"
   },
   {
       "id": "d169d2a9-d5dd-4f37-bc7d-85bd14641b9a",
@@ -256,14 +256,14 @@
       "paymentDate": "2020-10-09T00:00:00.000Z",
       "amount": 8,
       "merchant": "TFL London",
-      "category": "Office"
+      "category": "Travel"
   },
   {
       "id": "31e09f70-ecad-4ab7-acf6-586ff9163adf",
       "paymentDate": "2020-11-04T00:00:00.000Z",
       "amount": 6,
       "merchant": "TFL London",
-      "category": "Transport"
+      "category": "Travel"
   },
   {
       "id": "cc59047a-d8cd-4959-9d4d-fbe035a96766",
@@ -333,7 +333,7 @@
       "paymentDate": "2020-11-04T00:00:00.000Z",
       "amount": 6,
       "merchant": "TFL London",
-      "category": "Transport"
+      "category": "Travel"
   },
   {
       "id": "c47fe27d-dc67-4a1a-8da8-5c0371f86c15",
